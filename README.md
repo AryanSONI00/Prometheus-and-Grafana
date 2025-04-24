@@ -67,7 +67,7 @@ docker-compose up -d
     - Select Prometheus data source
     - Click Import
 
-![Image](/assets/Screenshot%202025-04-17%20135230.png)
+![Image](/assets/Screenshot%202025-04-24%20111437.png)
 ![Image](/assets/Screenshot%202025-04-17%20140151.png)
 
 ## Dashboard
